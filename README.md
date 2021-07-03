@@ -4,7 +4,7 @@
 ### How it works ?
 
 1. Open the application Birthday Greetings on your phone.
-<img align="center" src="readme_images/display4.png" width="2750px" height="500px" />
+<img align="center" src="readme_images/display4.png" width="275px" height="500px" />
 
 2. Enter the name of the person you want to wish.
 <img align="center" src="readme_images/display1.png" />
