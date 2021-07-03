@@ -1,7 +1,7 @@
 # BirthdayGreetings
 ### Created a  basic android application to wish your close one's on their Birthday(To be deployed soon on play store)
 <hr />
-<b>How it works ?</b>
+<p align="center"><b>How it works ?</b></p>
 <hr />
 1. Open the application Birthday Greetings on your phone.
 <img align="center" src="readme_images/display4.png" width="275px" height="500px" />
