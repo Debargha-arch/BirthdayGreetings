@@ -6,7 +6,7 @@
 1. Open the application Birthday Greetings on your phone.
 <img align="center" src="readme_images/display4.png" width="275px" height="500px" />
 <br>
-2. Enter the name of the person you want to wish and tap on "<b>CREATE BIRTHDAY WISH</b>".
+2. Enter the name of the person you want to wish and tap on "<b>CREATE BIRTHDAY CARD</b>".
 <img align="center" src="readme_images/display1.png" width="275px" height="500px"/>
 <br>
 3. A message pops up on the bottom showing the name and control moves to a new page.
